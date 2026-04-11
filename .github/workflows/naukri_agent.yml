@@ -37,18 +37,18 @@ jobs:
             "naukri_password": "${{ secrets.NAUKRI_PASSWORD }}",
             "profile": {
               "current_role":        "Software Developer",
-              "experience_years":    2,
-              "current_location":    "Chennai",
-              "preferred_locations": ["Chennai", "Bangalore", "Hyderabad", "Remote"],
-              "expected_salary_lpa": 6,
+              "experience_years":    1.5,
+              "current_location":    "Bangalore",
+              "preferred_locations": ["Bangalore", "Chennai", "Hyderabad", "Remote"],
+              "expected_salary_lpa": 7,
               "notice_period_days":  30
             },
             "job_search": {
               "keywords":   ["Software Developer", "Software Engineer", "Backend Developer", "Full Stack Developer"],
-              "skills":     ["Python", "Java", "JavaScript", "SQL", "Git", "React", "Node.js"],
+              "skills":     [ "Java","Springboot","Microservices","REST API","API","MySQL", "JavaScript", "SQL", "Git", "React", "Node.js"],
               "experience_min": 1,
               "experience_max": 3,
-              "max_applications_per_day": 15
+              "max_applications_per_day": 25
             },
             "resume_path": "resume.pdf",
             "notifications": {
