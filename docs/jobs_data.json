@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24 14:19",
+  "last_updated": "2026-04-27 09:46",
   "total_applied": 14,
-  "total_manual": 10,
+  "total_manual": 11,
   "applied_jobs": [
     {
       "id": 1,
@@ -369,6 +369,22 @@
       "url": "https://www.naukri.com/job-listings-lead-software-engineer-backend-finbox-finbox-bengaluru-1-to-4-years-240426503420",
       "found_on": "2026-04-24",
       "found_at": "2026-04-24 14:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 11,
+      "title": "ASSOCIATE DOMAIN ANALYST - ReactJS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Noida",
+      "salary": "Not disclosed",
+      "experience": "1-3 Yrs",
+      "skills": "Computer scienceSoftware development methodologiesInterpersonal skillsVersion controlGITCodingJavascriptHTML",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-domain-analyst-reactjs-happiest-minds-technologies-pvt-ltd-noida-bengaluru-1-to-3-years-270426500384",
+      "found_on": "2026-04-27",
+      "found_at": "2026-04-27 09:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
