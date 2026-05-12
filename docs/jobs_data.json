@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11 15:50",
+  "last_updated": "2026-05-12 06:26",
   "total_applied": 14,
-  "total_manual": 38,
+  "total_manual": 41,
   "applied_jobs": [
     {
       "id": 1,
@@ -817,6 +817,54 @@
       "url": "https://www.naukri.com/job-listings-laravel-developer-nextwebi-it-solutions-bengaluru-1-to-2-years-110526501445",
       "found_on": "2026-05-11",
       "found_at": "2026-05-11 15:50",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 39,
+      "title": "Software Developer",
+      "company": "SASTI GROUP OF COMPANIES",
+      "location": "Hybrid - Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaSQLHtml/CssJavascriptPythonAngularjsFull StackNode.Js",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-sasti-group-of-companies-chennai-0-to-1-years-120526006804",
+      "found_on": "2026-05-12",
+      "found_at": "2026-05-12 06:24",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 40,
+      "title": "Software Development Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "gitrestsoftware developmentreact nativejavascriptcssmobile application developmenthibernate",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-4-years-110526923196",
+      "found_on": "2026-05-12",
+      "found_at": "2026-05-12 06:26",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 41,
+      "title": "Application Support Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "javafull stack developmentversion controlhibernatejavascriptdatabase managementgitpostgresql",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-application-support-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-4-years-110526924840",
+      "found_on": "2026-05-12",
+      "found_at": "2026-05-12 06:26",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
