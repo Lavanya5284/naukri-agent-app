@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-15 14:51",
+  "last_updated": "2026-05-16 06:02",
   "total_applied": 14,
-  "total_manual": 61,
+  "total_manual": 62,
   "applied_jobs": [
     {
       "id": 1,
@@ -1185,6 +1185,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-1-2-modmed-hyderabad-1-to-3-years-150526505206",
       "found_on": "2026-05-15",
       "found_at": "2026-05-15 14:51",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 62,
+      "title": "Enabling Areas - Digital Excellence Centre - Executive",
+      "company": "Deloitte Consulting",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "Application supportNoSQLRDBMSJavascriptAgileData structuresUnit testingSoftware implementation",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-enabling-areas-digital-excellence-centre-executive-deloitte-bengaluru-0-to-2-years-150526504163",
+      "found_on": "2026-05-16",
+      "found_at": "2026-05-16 06:02",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
