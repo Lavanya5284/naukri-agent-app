@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-22 06:59",
+  "last_updated": "2026-05-22 15:35",
   "total_applied": 14,
-  "total_manual": 72,
+  "total_manual": 74,
   "applied_jobs": [
     {
       "id": 1,
@@ -1361,6 +1361,38 @@
       "url": "https://www.naukri.com/job-listings-junior-software-developer-ipropal-allps-hyderabad-0-to-2-years-210526505400",
       "found_on": "2026-05-22",
       "found_at": "2026-05-22 06:59",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 73,
+      "title": "Custom Software Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "Software EngineerRoot Cause AnalysisJavaComplianceApisDebuggingSql ServerProgramming",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-1-to-2-years-220526929417",
+      "found_on": "2026-05-22",
+      "found_at": "2026-05-22 15:34",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 74,
+      "title": "Software Engineer Trainee",
+      "company": "Missionmind It Services",
+      "location": "Chennai(Ambattur)",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "Springboot JavaSql PlsqlPerl / Shell ScriptingUnix CommandsShell scriptingCommandPerlSoftware",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-trainee-missionmind-it-services-chennai-0-to-1-years-220526028113",
+      "found_on": "2026-05-22",
+      "found_at": "2026-05-22 15:35",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
