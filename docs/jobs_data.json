@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-26 16:24",
+  "last_updated": "2026-05-27 07:16",
   "total_applied": 14,
-  "total_manual": 79,
+  "total_manual": 80,
   "applied_jobs": [
     {
       "id": 1,
@@ -1473,6 +1473,22 @@
       "url": "https://www.naukri.com/job-listings-java-fullstack-lead-angular-krazymantra-it-solutions-hyderabad-pune-chennai-bengaluru-0-to-10-years-260526505367",
       "found_on": "2026-05-26",
       "found_at": "2026-05-26 16:24",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 80,
+      "title": "Full Stack .Net Developer(Angular/React) C1",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Bangalore Rural",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "Fullstack DevelopmentReact.JsAngularAzureAWSSQL",
+      "score": 70,
+      "reason": "Keyword match: 2 skills matched",
+      "url": "https://www.naukri.com/job-listings-full-stack-net-developer-angular-react-c1-happiest-minds-technologies-bangalore-rural-bengaluru-0-to-1-years-260526012643",
+      "found_on": "2026-05-27",
+      "found_at": "2026-05-27 07:16",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
