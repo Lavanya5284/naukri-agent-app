@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-29 16:19",
+  "last_updated": "2026-05-31 10:07",
   "total_applied": 14,
-  "total_manual": 93,
+  "total_manual": 94,
   "applied_jobs": [
     {
       "id": 1,
@@ -1697,6 +1697,22 @@
       "url": "https://www.naukri.com/job-listings-powerbi-developer-kenexoft-technologies-hyderabad-0-to-1-years-290526506948",
       "found_on": "2026-05-29",
       "found_at": "2026-05-29 16:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 94,
+      "title": "Java Spring Boot Intern",
+      "company": "Tekravio",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaREST APIGitMySQLSpring BootBootRestAPI",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-spring-boot-intern-tekravio-private-limited-bengaluru-0-to-1-years-310526003132",
+      "found_on": "2026-05-31",
+      "found_at": "2026-05-31 10:07",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
