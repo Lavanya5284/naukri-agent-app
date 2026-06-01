@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01 13:22",
+  "last_updated": "2026-06-01 18:28",
   "total_applied": 14,
-  "total_manual": 96,
+  "total_manual": 97,
   "applied_jobs": [
     {
       "id": 1,
@@ -1745,6 +1745,22 @@
       "url": "https://www.naukri.com/job-listings-backend-engineer-node-js-python-prepairo-bengaluru-1-to-4-years-010626503754",
       "found_on": "2026-06-01",
       "found_at": "2026-06-01 13:22",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 97,
+      "title": "Java Full Stack Developer (AI + Cloud)",
+      "company": "Anusha Bazaar Technologies",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "Node.JsJavaCSSRestStrong experience in JavaTypescriptMySQLJavascript",
+      "score": 75,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-ai-cloud-anusha-bazaar-technologies-hyderabad-0-to-2-years-010626028520",
+      "found_on": "2026-06-01",
+      "found_at": "2026-06-01 18:28",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
