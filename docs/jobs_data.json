@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-01 18:28",
+  "last_updated": "2026-06-02 11:56",
   "total_applied": 14,
-  "total_manual": 97,
+  "total_manual": 98,
   "applied_jobs": [
     {
       "id": 1,
@@ -1761,6 +1761,22 @@
       "url": "https://www.naukri.com/job-listings-java-full-stack-developer-ai-cloud-anusha-bazaar-technologies-hyderabad-0-to-2-years-010626028520",
       "found_on": "2026-06-01",
       "found_at": "2026-06-01 18:28",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 98,
+      "title": "Software Engineer, IN",
+      "company": "DAZN",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "c++csshibernatejquerysqlspringreact.jsjava",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-in-dazn-group-hyderabad-1-to-5-years-020626502512",
+      "found_on": "2026-06-02",
+      "found_at": "2026-06-02 11:56",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
