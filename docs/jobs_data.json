@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09 15:43",
+  "last_updated": "2026-06-10 07:20",
   "total_applied": 14,
-  "total_manual": 121,
+  "total_manual": 122,
   "applied_jobs": [
     {
       "id": 1,
@@ -2145,6 +2145,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-angularjs-happiest-minds-technologies-pvt-ltd-bengaluru-1-to-6-years-090626501541",
       "found_on": "2026-06-09",
       "found_at": "2026-06-09 15:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 122,
+      "title": "SDE -1",
+      "company": "Banking Organization",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "JavaSpring BootRest APIMicroservicesDistribution SystemDesign PatternsData StructuresDesign",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-sde-1-talentov-bengaluru-1-to-2-years-100626007707",
+      "found_on": "2026-06-10",
+      "found_at": "2026-06-10 07:20",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
