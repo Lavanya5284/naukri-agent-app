@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-10 07:20",
+  "last_updated": "2026-06-10 11:18",
   "total_applied": 14,
-  "total_manual": 122,
+  "total_manual": 123,
   "applied_jobs": [
     {
       "id": 1,
@@ -2161,6 +2161,22 @@
       "url": "https://www.naukri.com/job-listings-sde-1-talentov-bengaluru-1-to-2-years-100626007707",
       "found_on": "2026-06-10",
       "found_at": "2026-06-10 07:20",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 123,
+      "title": "Software Engineer",
+      "company": "Shipzzz Technologies",
+      "location": "Hybrid - Bengaluru, Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "Full StackTypescriptNode.JsSQL ServerReact.JsPythonSoftwareSQL",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-shipzzz-technologies-chennai-bengaluru-1-to-6-years-100626011625",
+      "found_on": "2026-06-10",
+      "found_at": "2026-06-10 11:18",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
