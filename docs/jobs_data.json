@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-14 10:44",
+  "last_updated": "2026-06-15 09:33",
   "total_applied": 14,
-  "total_manual": 131,
+  "total_manual": 132,
   "applied_jobs": [
     {
       "id": 1,
@@ -2305,6 +2305,22 @@
       "url": "https://www.naukri.com/job-listings-fullstack-software-engineer-perfx-bengaluru-0-to-2-years-140626002050",
       "found_on": "2026-06-14",
       "found_at": "2026-06-14 10:44",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 132,
+      "title": "Software Developer",
+      "company": "Kapiital Kapslock",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "MySQLJavascriptReact.JsAngularHTMLReact NativeDevelopmentNative",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-kapiital-kapslock-private-limited-chennai-0-to-1-years-150626012512",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 09:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
