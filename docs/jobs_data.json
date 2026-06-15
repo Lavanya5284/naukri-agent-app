@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-15 09:33",
+  "last_updated": "2026-06-15 13:46",
   "total_applied": 14,
-  "total_manual": 132,
+  "total_manual": 133,
   "applied_jobs": [
     {
       "id": 1,
@@ -2321,6 +2321,22 @@
       "url": "https://www.naukri.com/job-listings-software-developer-kapiital-kapslock-private-limited-chennai-0-to-1-years-150626012512",
       "found_on": "2026-06-15",
       "found_at": "2026-06-15 09:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 133,
+      "title": "Software Development Engineer SDE I",
+      "company": "Apidel Technologies",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "JavaFullstack DevelopmentReact.JsAWSNoSQLDynamo DbDevelopmentSoftware development",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-sde-i-apidel-technologies-hyderabad-1-to-4-years-150626019459",
+      "found_on": "2026-06-15",
+      "found_at": "2026-06-15 13:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
