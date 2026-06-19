@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18 11:46",
+  "last_updated": "2026-06-19 08:46",
   "total_applied": 14,
-  "total_manual": 146,
+  "total_manual": 149,
   "applied_jobs": [
     {
       "id": 1,
@@ -2545,6 +2545,54 @@
       "url": "https://www.naukri.com/job-listings-full-stack-developer-5-months-contract-fe-fundinfo-chennai-1-to-4-years-180626503245",
       "found_on": "2026-06-18",
       "found_at": "2026-06-18 11:46",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 147,
+      "title": "Web And Software Developer",
+      "company": "Easha 24x7 Health Care",
+      "location": "Hyderabad(Ameerpet)",
+      "salary": "Not disclosed",
+      "experience": "1-3 Yrs",
+      "skills": "Full Stack Application DevelopmentWeb Application DevelopmentJava FullstackJavaNode.JsReact.JsPythonDevelopment",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-web-and-software-developer-easha-24x7-health-care-hyderabad-1-to-3-years-190626013075",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 08:42",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 148,
+      "title": "Software Developer",
+      "company": "Highradius",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaDevelopmentJavascriptPythonSQLSoftwareJavasSoftware development",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-highradius-hyderabad-0-to-1-years-190626006564",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 08:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 149,
+      "title": "Forward Deployed Engineer",
+      "company": "Bespoke Technologies",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-3 Yrs",
+      "skills": "Artificial IntelligenceReact.JsPythonPrompt EngineeringGenerative AiDjangoJavascriptFast Api",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-forward-deployed-engineer-bespoke-technologies-bengaluru-1-to-3-years-190626007941",
+      "found_on": "2026-06-19",
+      "found_at": "2026-06-19 08:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
