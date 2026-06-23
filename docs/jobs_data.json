@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-22 13:18",
+  "last_updated": "2026-06-23 10:53",
   "total_applied": 14,
-  "total_manual": 155,
+  "total_manual": 156,
   "applied_jobs": [
     {
       "id": 1,
@@ -2689,6 +2689,22 @@
       "url": "https://www.naukri.com/job-listings-software-developer-trainee-crimsonlogic-india-private-limited-bengaluru-1-to-2-years-220626505512",
       "found_on": "2026-06-22",
       "found_at": "2026-06-22 13:18",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 156,
+      "title": "Java Developer",
+      "company": "ti Steps",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "Java Spring BootJava DevelopmentReact.JsAWSSpringboot JavaJavaSpring BootAngular",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-281125020865",
+      "found_on": "2026-06-23",
+      "found_at": "2026-06-23 10:53",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
