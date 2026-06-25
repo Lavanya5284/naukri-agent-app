@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25 10:31",
+  "last_updated": "2026-06-25 15:29",
   "total_applied": 14,
-  "total_manual": 160,
+  "total_manual": 161,
   "applied_jobs": [
     {
       "id": 1,
@@ -2769,6 +2769,22 @@
       "url": "https://www.naukri.com/job-listings-java-developer-mobily-infotech-mit-bengaluru-1-to-3-years-250626022325",
       "found_on": "2026-06-25",
       "found_at": "2026-06-25 10:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 161,
+      "title": "Software Engineer",
+      "company": "Lumberfi",
+      "location": "Bengaluru, Whitefield",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "JAVAFull Stack DeveloperJava ScriptSoftware EngineerReactReact FrameworkDevelopmentJavascript",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-lumberfi-private-limited-bengaluru-whitefield-0-to-2-years-250626924597",
+      "found_on": "2026-06-25",
+      "found_at": "2026-06-25 15:29",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
