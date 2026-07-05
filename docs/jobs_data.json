@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03 14:45",
+  "last_updated": "2026-07-05 14:20",
   "total_applied": 14,
-  "total_manual": 178,
+  "total_manual": 179,
   "applied_jobs": [
     {
       "id": 1,
@@ -3057,6 +3057,22 @@
       "url": "https://www.naukri.com/job-listings-consultant-software-engineer-nodejs-react-and-gcp-hca-healthcare-hyderabad-1-to-4-years-030726505110",
       "found_on": "2026-07-03",
       "found_at": "2026-07-03 14:45",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 179,
+      "title": "Android Application Developer (Java/Kotlin)",
+      "company": "Camzy Infotech",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "Jetpack ComposeAndroid DevelopmentAndroid SDKAndroid StudioKotlinJavaREST APIXML",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-android-application-developer-java-kotlin-camzy-infotech-bengaluru-0-to-2-years-050726004114",
+      "found_on": "2026-07-05",
+      "found_at": "2026-07-05 14:20",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
