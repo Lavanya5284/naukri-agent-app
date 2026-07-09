@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08 10:06",
+  "last_updated": "2026-07-09 10:46",
   "total_applied": 14,
-  "total_manual": 187,
+  "total_manual": 189,
   "applied_jobs": [
     {
       "id": 1,
@@ -3201,6 +3201,38 @@
       "url": "https://www.naukri.com/job-listings-full-stack-developer-java-angular-ibs-software-chennai-1-to-3-years-080726500456",
       "found_on": "2026-07-08",
       "found_at": "2026-07-08 10:06",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 188,
+      "title": "L1 Product Support Engineer",
+      "company": "Bitespeed",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "postman apijavascriptsqlweb debuggingapi testingproduct supportsoftware testingmanual testing",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-l1-product-support-engineer-bitespeed-bengaluru-0-to-2-years-090726912990",
+      "found_on": "2026-07-09",
+      "found_at": "2026-07-09 10:45",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 189,
+      "title": "SDE I / SDE II - Java Developer",
+      "company": "M2P",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "JavaSpring BootMicroservicesSpring MVCMS SQL ServeData StructuresJSPRedis",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sde-i-sde-ii-java-developer-m2p-fintech-chennai-1-to-5-years-090726015604",
+      "found_on": "2026-07-09",
+      "found_at": "2026-07-09 10:46",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
