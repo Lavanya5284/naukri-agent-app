@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15 05:45",
+  "last_updated": "2026-07-16 09:45",
   "total_applied": 14,
-  "total_manual": 201,
+  "total_manual": 202,
   "applied_jobs": [
     {
       "id": 1,
@@ -3425,6 +3425,22 @@
       "url": "https://www.naukri.com/job-listings-specialist-software-engineer-mainframe-nationwide-mutual-insurance-company-hyderabad-1-to-5-years-140726502806",
       "found_on": "2026-07-15",
       "found_at": "2026-07-15 05:45",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 202,
+      "title": "Software Development Engineer",
+      "company": "Digamber Finance",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-3 Yrs",
+      "skills": "Restfull APIGITJava Spring BootPostgresqlMaven GradleJUnitSpring Data JPASoftware",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-digamber-finance-bengaluru-1-to-3-years-160726024215",
+      "found_on": "2026-07-16",
+      "found_at": "2026-07-16 09:45",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
