@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16 14:38",
+  "last_updated": "2026-07-17 09:40",
   "total_applied": 14,
-  "total_manual": 203,
+  "total_manual": 204,
   "applied_jobs": [
     {
       "id": 1,
@@ -3457,6 +3457,22 @@
       "url": "https://www.naukri.com/job-listings-automotive-accessory-fitter-labournet-services-india-pvt-ltd-bangalore-rural-0-to-2-years-160726505280",
       "found_on": "2026-07-16",
       "found_at": "2026-07-16 14:38",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 204,
+      "title": "Fullstack Engineer",
+      "company": "K12 Techno Services",
+      "location": "Bengaluru(Yeshwanthpur)",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "JavaDjangoPythonFullstack DevelopmentPostgresqlJavascriptNode.jsMongoDB",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-fullstack-engineer-k12-techno-services-bengaluru-1-to-4-years-170726020563",
+      "found_on": "2026-07-17",
+      "found_at": "2026-07-17 09:40",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
