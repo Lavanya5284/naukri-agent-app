@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17 14:19",
+  "last_updated": "2026-07-20 10:34",
   "total_applied": 14,
-  "total_manual": 205,
+  "total_manual": 207,
   "applied_jobs": [
     {
       "id": 1,
@@ -3489,6 +3489,38 @@
       "url": "https://www.naukri.com/job-listings-java-software-developer-moglix-hyderabad-0-to-1-years-170726014237",
       "found_on": "2026-07-17",
       "found_at": "2026-07-17 14:19",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 206,
+      "title": "Associate Software Developer - Java",
+      "company": "Nuchange Informatics",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaContinuous DeploymentContinuous IntegrationSpringbootTest Driven DevelopmentSQLDeploymentCd",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-software-developer-java-nuchange-informatics-bengaluru-0-to-1-years-200726907625",
+      "found_on": "2026-07-20",
+      "found_at": "2026-07-20 10:32",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 207,
+      "title": "Software Engineer (Python Fullstack + Cloud)",
+      "company": "Eurofins",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "AzureTypeScriptFullstack DevelopmentJavascriptPythonWeb APICSSSDLC",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-python-fullstack-cloud-eurofins-bengaluru-1-to-4-years-200726016655",
+      "found_on": "2026-07-20",
+      "found_at": "2026-07-20 10:34",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
