@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22 10:09",
+  "last_updated": "2026-07-22 14:39",
   "total_applied": 14,
-  "total_manual": 213,
+  "total_manual": 214,
   "applied_jobs": [
     {
       "id": 1,
@@ -3617,6 +3617,22 @@
       "url": "https://www.naukri.com/job-listings-software-developer-nextgenmedia-bengaluru-0-to-1-years-220726016244",
       "found_on": "2026-07-22",
       "found_at": "2026-07-22 10:09",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 214,
+      "title": "Software Developer",
+      "company": "Omega Healthcare",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "JavaJavascriptPythonJava Spring BootSQLSpringSoftwareSpring Boot",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-omega-healthcare-hyderabad-chennai-bengaluru-1-to-5-years-220726025767",
+      "found_on": "2026-07-22",
+      "found_at": "2026-07-22 14:39",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
