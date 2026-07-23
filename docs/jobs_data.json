@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-22 14:39",
+  "last_updated": "2026-07-23 10:09",
   "total_applied": 14,
-  "total_manual": 214,
+  "total_manual": 215,
   "applied_jobs": [
     {
       "id": 1,
@@ -3633,6 +3633,22 @@
       "url": "https://www.naukri.com/job-listings-software-developer-omega-healthcare-hyderabad-chennai-bengaluru-1-to-5-years-220726025767",
       "found_on": "2026-07-22",
       "found_at": "2026-07-22 14:39",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 215,
+      "title": "Backend Developer",
+      "company": "Mitigata Insurance",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "cssdbmshibernatejquerysqlmicroservicesspringreact.js",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-bengaluru-1-to-2-years-230726500412",
+      "found_on": "2026-07-23",
+      "found_at": "2026-07-23 10:09",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
