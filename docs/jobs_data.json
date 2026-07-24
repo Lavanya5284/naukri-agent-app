@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-23 10:09",
+  "last_updated": "2026-07-24 10:05",
   "total_applied": 14,
-  "total_manual": 215,
+  "total_manual": 216,
   "applied_jobs": [
     {
       "id": 1,
@@ -3649,6 +3649,22 @@
       "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-bengaluru-1-to-2-years-230726500412",
       "found_on": "2026-07-23",
       "found_at": "2026-07-23 10:09",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 216,
+      "title": "Full Stack Intern",
+      "company": "Tensorgo Technologies",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "cssreact.jshtmljavascriptnode.jsweb servicesjwthibernate",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-full-stack-intern-tensorgo-technologies-hyderabad-0-to-1-years-240726919251",
+      "found_on": "2026-07-24",
+      "found_at": "2026-07-24 10:05",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
