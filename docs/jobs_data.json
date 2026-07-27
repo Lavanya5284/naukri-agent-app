@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-24 14:28",
+  "last_updated": "2026-07-27 11:03",
   "total_applied": 14,
-  "total_manual": 220,
+  "total_manual": 221,
   "applied_jobs": [
     {
       "id": 1,
@@ -3729,6 +3729,22 @@
       "url": "https://www.naukri.com/job-listings-staff-engineer-product-platform-java-api-altimetrik-corp-bengaluru-0-to-5-years-240726504338",
       "found_on": "2026-07-24",
       "found_at": "2026-07-24 14:28",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 221,
+      "title": "Software Developer Optimization Tools",
+      "company": "Hitachi Energy",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "algorithmsinformation technologyplm toolscadperformance profilingpower bidigital platformsjavascript",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-optimization-tools-hitachi-energy-india-limited-chennai-1-to-5-years-270726913981",
+      "found_on": "2026-07-27",
+      "found_at": "2026-07-27 11:03",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
