@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-04 10:18",
+  "last_updated": "2026-08-05 05:55",
   "total_applied": 14,
-  "total_manual": 234,
+  "total_manual": 235,
   "applied_jobs": [
     {
       "id": 1,
@@ -3953,6 +3953,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-ethos-life-technologies-bengaluru-0-to-2-years-040826501455",
       "found_on": "2026-08-04",
       "found_at": "2026-08-04 10:18",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 235,
+      "title": "IT Officer (Software Development)",
+      "company": "Keolis Hyderabad Mass Rapid Transit System",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "Front End.NETReact.jsAngularSQLTypeScriptRest APIsJavascript",
+      "score": 80,
+      "reason": "Keyword match: 6 skills matched",
+      "url": "https://www.naukri.com/job-listings-it-officer-software-development-keolis-hyderabad-mass-rapid-transit-system-hyderabad-1-to-2-years-050826007033",
+      "found_on": "2026-08-05",
+      "found_at": "2026-08-05 05:55",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
