@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07 13:51",
+  "last_updated": "2026-08-08 13:33",
   "total_applied": 14,
-  "total_manual": 239,
+  "total_manual": 240,
   "applied_jobs": [
     {
       "id": 1,
@@ -4033,6 +4033,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-java-full-stack-angular-kafka-ci-cd-optum-global-solutions-india-private-limited-hyderabad-0-to-3-years-070826930423",
       "found_on": "2026-08-07",
       "found_at": "2026-08-07 13:51",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 240,
+      "title": "Java Developer",
+      "company": "Jugla Technologies",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaJDBCSpring BootMySQLMicroservicesWeb ServicesSQLJava Development",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-developer-jugla-technologies-hyderabad-0-to-1-years-080826011701",
+      "found_on": "2026-08-08",
+      "found_at": "2026-08-08 13:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
