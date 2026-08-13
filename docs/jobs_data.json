@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12 14:03",
+  "last_updated": "2026-08-13 14:03",
   "total_applied": 14,
-  "total_manual": 259,
+  "total_manual": 260,
   "applied_jobs": [
     {
       "id": 1,
@@ -4353,6 +4353,22 @@
       "url": "https://www.naukri.com/job-listings-ai-automation-test-engineer-javascript-java-zycus-infotech-pvt-ltd-bengaluru-0-to-4-years-120826501552",
       "found_on": "2026-08-12",
       "found_at": "2026-08-12 14:03",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 260,
+      "title": "Junior Full Stack Developer",
+      "company": "Artmac Soft",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "emerging technologiessoftware developmentuxhtml5rest apifull stack developerjsnosql",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-junior-full-stack-developer-artmac-soft-hyderabad-0-to-2-years-130826503505",
+      "found_on": "2026-08-13",
+      "found_at": "2026-08-13 14:03",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
