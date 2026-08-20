@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19 13:33",
+  "last_updated": "2026-08-20 08:15",
   "total_applied": 14,
-  "total_manual": 264,
+  "total_manual": 265,
   "applied_jobs": [
     {
       "id": 1,
@@ -4433,6 +4433,22 @@
       "url": "https://www.naukri.com/job-listings-react-native-app-intern-brained-bengaluru-0-to-2-years-190826500178",
       "found_on": "2026-08-19",
       "found_at": "2026-08-19 13:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 265,
+      "title": "Java Developer",
+      "company": "Grid Dynamics",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "Java DeveloperJavaAzurePostgresqlDebuggingKafkaFull StackRestful",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-developer-grid-dynamics-private-limited-hyderabad-chennai-bengaluru-1-to-6-years-190826931753",
+      "found_on": "2026-08-20",
+      "found_at": "2026-08-20 08:15",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
