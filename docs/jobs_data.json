@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20 13:34",
+  "last_updated": "2026-08-21 08:17",
   "total_applied": 14,
-  "total_manual": 266,
+  "total_manual": 267,
   "applied_jobs": [
     {
       "id": 1,
@@ -4465,6 +4465,22 @@
       "url": "https://www.naukri.com/job-listings-react-developer-pinus-software-chennai-1-to-3-years-200826500649",
       "found_on": "2026-08-20",
       "found_at": "2026-08-20 13:34",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 267,
+      "title": "Full Stack Developer",
+      "company": "Leading Client",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "full stack developerfront endcontinuous integrationcsscloud servicesunit testingreactjavascript",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-hyderabad-1-to-6-years-210826912011",
+      "found_on": "2026-08-21",
+      "found_at": "2026-08-21 08:17",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
