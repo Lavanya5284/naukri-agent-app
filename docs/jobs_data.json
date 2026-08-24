@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-21 08:17",
+  "last_updated": "2026-08-24 08:17",
   "total_applied": 14,
-  "total_manual": 267,
+  "total_manual": 268,
   "applied_jobs": [
     {
       "id": 1,
@@ -4481,6 +4481,22 @@
       "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-hyderabad-1-to-6-years-210826912011",
       "found_on": "2026-08-21",
       "found_at": "2026-08-21 08:17",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 268,
+      "title": "Software-Java Developer",
+      "company": "Creative Hands HR",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "JavaRestful Web API DevelopmentMultithreadingDockerSpring BootCollectionsAWSMicroservices",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-240826003116",
+      "found_on": "2026-08-24",
+      "found_at": "2026-08-24 08:17",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
