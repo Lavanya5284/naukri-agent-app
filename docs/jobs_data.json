@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-25 03:57",
+  "last_updated": "2026-08-26 04:02",
   "total_applied": 14,
-  "total_manual": 269,
+  "total_manual": 270,
   "applied_jobs": [
     {
       "id": 1,
@@ -4513,6 +4513,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-visa-consolidated-support-services-india-pvt-ltd-bengaluru-1-to-6-years-240826930862",
       "found_on": "2026-08-25",
       "found_at": "2026-08-25 03:57",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 270,
+      "title": "Java Full Stack Developer (React) | 0-1 Years",
+      "company": "Jugla Technologies",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaCSS and JavascriptJDBCSpring BootReact.jsMySQLMicroservicesWeb Services",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-0-1-years-jugla-technologies-bengaluru-0-to-1-years-260826002089",
+      "found_on": "2026-08-26",
+      "found_at": "2026-08-26 04:02",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
