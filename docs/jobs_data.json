@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-01 16:55",
+  "last_updated": "2026-09-04 07:56",
   "total_applied": 14,
-  "total_manual": 282,
+  "total_manual": 283,
   "applied_jobs": [
     {
       "id": 1,
@@ -4721,6 +4721,22 @@
       "url": "https://www.naukri.com/job-listings-java-developer-tp-bengaluru-1-to-6-years-010926036175",
       "found_on": "2026-09-01",
       "found_at": "2026-09-01 16:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 283,
+      "title": "Software Development Engineer 1 / 2",
+      "company": "Moveinsync Technology Solutions",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "SpringbooJavaPostgresqlkafkaMicroservicesRest APIsSoftware engineeringSoftware development",
+      "score": 80,
+      "reason": "Keyword match: 6 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-1-2-moveinsync-technology-solutions-bengaluru-1-to-6-years-040926014573",
+      "found_on": "2026-09-04",
+      "found_at": "2026-09-04 07:56",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
