@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07 08:12",
+  "last_updated": "2026-09-07 13:44",
   "total_applied": 14,
-  "total_manual": 288,
+  "total_manual": 290,
   "applied_jobs": [
     {
       "id": 1,
@@ -4817,6 +4817,38 @@
       "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-070926003165",
       "found_on": "2026-09-07",
       "found_at": "2026-09-07 08:12",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 289,
+      "title": "Software Engineer, Associate",
+      "company": "Infor",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-6 Yrs",
+      "skills": "emerging technologiesserverless computingcssobject-oriented programmingserverlessreactcomputer engineeringjavascript",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-associate-infor-bengaluru-1-to-6-years-070926501957",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 13:43",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 290,
+      "title": "Angular Developer",
+      "company": "Smart Vibes",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "html5javascriptangular developerangularweb appsgitapisdebugging",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-angular-developer-smart-vibes-hyderabad-0-to-1-years-070926500166",
+      "found_on": "2026-09-07",
+      "found_at": "2026-09-07 13:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
