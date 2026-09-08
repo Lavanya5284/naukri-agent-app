@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07 13:44",
+  "last_updated": "2026-09-08 12:24",
   "total_applied": 14,
-  "total_manual": 290,
+  "total_manual": 292,
   "applied_jobs": [
     {
       "id": 1,
@@ -4849,6 +4849,38 @@
       "url": "https://www.naukri.com/job-listings-angular-developer-smart-vibes-hyderabad-0-to-1-years-070926500166",
       "found_on": "2026-09-07",
       "found_at": "2026-09-07 13:44",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 291,
+      "title": "Software Engineer - Backend Engineer (Python)",
+      "company": "Infinity learn",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "AWS LambdaPostgreSQLFast APIPythonSQLDistribution SystemREST APIEvent-driven architecture",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-backend-engineer-python-infinity-learn-hyderabad-1-to-2-years-080926030168",
+      "found_on": "2026-09-08",
+      "found_at": "2026-09-08 12:23",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 292,
+      "title": "Software Engineer Intern (Backend / AI)",
+      "company": "Supero Pvt Ltd",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "Backend DevelopmentPostgresqlKafkaRedisNode.jsCi/CdSQLNoSQL",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-intern-backend-ai-supero-pvt-ltd-bengaluru-0-to-1-years-080926029246",
+      "found_on": "2026-09-08",
+      "found_at": "2026-09-08 12:24",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
