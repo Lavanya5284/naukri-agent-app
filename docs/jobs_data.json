@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-10 16:39",
+  "last_updated": "2026-09-11 08:01",
   "total_applied": 14,
-  "total_manual": 298,
+  "total_manual": 299,
   "applied_jobs": [
     {
       "id": 1,
@@ -4977,6 +4977,22 @@
       "url": "https://www.naukri.com/job-listings-application-support-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-4-years-100926933340",
       "found_on": "2026-09-10",
       "found_at": "2026-09-10 16:39",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 299,
+      "title": "Software Development Engineer 1",
+      "company": "Nxtwave Disruptive Technologies (Hiring for a client)",
+      "location": "Hyderabad",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "JavaScript (ES6+)Node.jsReact.jsREST APIGitTypeScriptPostgreSQL / MongoDBHTML5 & CSS3Express.js",
+      "score": 90,
+      "reason": "Keyword match: 8 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-1-nxtwave-disruptive-technologies-hiring-for-a-client-hyderabad-1-to-2-years-110926010665",
+      "found_on": "2026-09-11",
+      "found_at": "2026-09-11 08:01",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
