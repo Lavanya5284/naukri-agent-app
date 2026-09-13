@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11 12:27",
+  "last_updated": "2026-09-13 12:56",
   "total_applied": 14,
-  "total_manual": 302,
+  "total_manual": 303,
   "applied_jobs": [
     {
       "id": 1,
@@ -5041,6 +5041,22 @@
       "url": "https://www.naukri.com/job-listings-reactjs-developer-bitcot-technologies-chennai-1-to-2-years-110926502149",
       "found_on": "2026-09-11",
       "found_at": "2026-09-11 12:27",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 303,
+      "title": "Web Development Intern",
+      "company": "Meta Skill Group",
+      "location": "Dehradun",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavascriptReact.jsHtml/CssPHPAngularNodejs ApplicationsSQLHTML",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-web-development-intern-metaskillgroup-dehradun-0-to-1-years-130926003916",
+      "found_on": "2026-09-13",
+      "found_at": "2026-09-13 12:56",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
