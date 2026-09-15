@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-14 18:13",
+  "last_updated": "2026-09-15 12:59",
   "total_applied": 14,
-  "total_manual": 305,
+  "total_manual": 306,
   "applied_jobs": [
     {
       "id": 1,
@@ -5089,6 +5089,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-dynamics-crm-ecolab-global-services-private-limited-bengaluru-1-to-5-years-140926916298",
       "found_on": "2026-09-14",
       "found_at": "2026-09-14 18:13",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 306,
+      "title": "Sr java/.net Full Stack Developer",
+      "company": "Deloitte US-India Offices",
+      "location": "Bengaluru, Pune, Gurugram",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "Fullstack DevelopmentJavaNode.jsReact.js.NetFull StackSRStack",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sr-java-net-full-stack-developer-deloitte-us-india-offices-pune-gurugram-bengaluru-0-to-5-years-260526022034",
+      "found_on": "2026-09-15",
+      "found_at": "2026-09-15 12:59",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
