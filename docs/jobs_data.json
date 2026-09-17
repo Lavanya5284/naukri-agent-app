@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-16 08:31",
+  "last_updated": "2026-09-17 08:36",
   "total_applied": 14,
-  "total_manual": 307,
+  "total_manual": 308,
   "applied_jobs": [
     {
       "id": 1,
@@ -5121,6 +5121,22 @@
       "url": "https://www.naukri.com/job-listings-javascript-developer-soul-ai-chennai-1-to-3-years-150926933811",
       "found_on": "2026-09-16",
       "found_at": "2026-09-16 08:31",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 308,
+      "title": "Backend Java Developer",
+      "company": "Yoga Neram Healthtech",
+      "location": "Chennai(Velachery)",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "Springboot JavaJavajava 8Azure DevOpsMicroservicesAi SolutionsSpring BootJava Coding",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-backend-java-developer-yoga-neram-healthtech-chennai-1-to-2-years-170926018105",
+      "found_on": "2026-09-17",
+      "found_at": "2026-09-17 08:36",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
