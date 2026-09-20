@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-18 16:42",
+  "last_updated": "2026-09-20 08:31",
   "total_applied": 14,
-  "total_manual": 312,
+  "total_manual": 313,
   "applied_jobs": [
     {
       "id": 1,
@@ -5201,6 +5201,22 @@
       "url": "https://www.naukri.com/job-listings-aep-engineer-zensar-technologies-bengaluru-0-to-5-years-180926505207",
       "found_on": "2026-09-18",
       "found_at": "2026-09-18 16:42",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 313,
+      "title": "Java Developer",
+      "company": "Jugla Technologies",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "JavaJDBCSpring BootMySQLMicroservicesWeb ServicesSQLBootstrap",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-java-developer-jugla-technologies-bengaluru-0-to-1-years-200926008067",
+      "found_on": "2026-09-20",
+      "found_at": "2026-09-20 08:31",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
