@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-24 17:33",
+  "last_updated": "2026-09-26 08:33",
   "total_applied": 14,
-  "total_manual": 319,
+  "total_manual": 320,
   "applied_jobs": [
     {
       "id": 1,
@@ -5313,6 +5313,22 @@
       "url": "https://www.naukri.com/job-listings-net-software-developer-nxtwave-disruptive-technologies-noida-hyderabad-0-to-2-years-240926040436",
       "found_on": "2026-09-24",
       "found_at": "2026-09-24 17:33",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 320,
+      "title": "React JS Developer",
+      "company": "Sirigiri Software Solutions",
+      "location": "Hyderabad(Begumpet)",
+      "salary": "Not disclosed",
+      "experience": "0-3 Yrs",
+      "skills": "JavascriptReact.jsTypeScriptReduxContext APIWebpackHtml/CssMaterial UI",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-react-js-developer-sirigiri-software-solutions-hyderabad-0-to-3-years-260926004013",
+      "found_on": "2026-09-26",
+      "found_at": "2026-09-26 08:33",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
