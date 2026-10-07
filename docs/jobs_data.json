@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-06 14:35",
+  "last_updated": "2026-10-07 14:49",
   "total_applied": 14,
-  "total_manual": 331,
+  "total_manual": 332,
   "applied_jobs": [
     {
       "id": 1,
@@ -5505,6 +5505,22 @@
       "url": "https://www.naukri.com/job-listings-fullstack-developer-sirigiri-software-solutions-hyderabad-0-to-3-years-061026026705",
       "found_on": "2026-10-06",
       "found_at": "2026-10-06 14:35",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 332,
+      "title": "Backend Developer (Node.js & MongoDB/MySQL)",
+      "company": "Cafs Infotech",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "nodesoftware developmentapisjsbackend developermysqlcommunication and interpersonal skillsmongodb",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-backend-developer-node-js-mongodb-mysql-cafs-infotech-chennai-0-to-1-years-071026502167",
+      "found_on": "2026-10-07",
+      "found_at": "2026-10-07 14:49",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
