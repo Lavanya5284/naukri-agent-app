@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-07 14:49",
+  "last_updated": "2026-10-07 19:07",
   "total_applied": 14,
-  "total_manual": 332,
+  "total_manual": 333,
   "applied_jobs": [
     {
       "id": 1,
@@ -5521,6 +5521,22 @@
       "url": "https://www.naukri.com/job-listings-backend-developer-node-js-mongodb-mysql-cafs-infotech-chennai-0-to-1-years-071026502167",
       "found_on": "2026-10-07",
       "found_at": "2026-10-07 14:49",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 333,
+      "title": "Full-Stack Developer (Java+Spring Boot)",
+      "company": "Leading Client",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-5 Yrs",
+      "skills": "JavaPostgreSQLKafkaRedisreactSpring BootRest APIMicroservices",
+      "score": 90,
+      "reason": "Keyword match: 7 skills matched",
+      "url": "https://www.naukri.com/job-listings-full-stack-developer-java-spring-boot-golden-opportunities-pvt-ltd-chennai-1-to-5-years-071026938087",
+      "found_on": "2026-10-07",
+      "found_at": "2026-10-07 19:07",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
