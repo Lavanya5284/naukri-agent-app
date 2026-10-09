@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-07 19:07",
+  "last_updated": "2026-10-09 10:24",
   "total_applied": 14,
-  "total_manual": 333,
+  "total_manual": 335,
   "applied_jobs": [
     {
       "id": 1,
@@ -5537,6 +5537,38 @@
       "url": "https://www.naukri.com/job-listings-full-stack-developer-java-spring-boot-golden-opportunities-pvt-ltd-chennai-1-to-5-years-071026938087",
       "found_on": "2026-10-07",
       "found_at": "2026-10-07 19:07",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 334,
+      "title": "Associate, Back End Developer",
+      "company": "Open Designs",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-3 Yrs",
+      "skills": "MySQLWordpressJavascriptPHPHtml/CssjQueryReact.jsBackend Development",
+      "score": 70,
+      "reason": "Keyword match: 4 skills matched",
+      "url": "https://www.naukri.com/job-listings-associate-back-end-developer-open-designs-chennai-1-to-3-years-091026016161",
+      "found_on": "2026-10-09",
+      "found_at": "2026-10-09 10:21",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 335,
+      "title": "Azure .NET Full stack Developer(Reactjs or Angular)",
+      "company": "Capgemini",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "agileci/cd pipelinesazure sqlasp.net web apibootstrapbackend developmentazure devopsazure functions",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-azure-net-full-stack-developer-reactjs-or-angular-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-091026912262",
+      "found_on": "2026-10-09",
+      "found_at": "2026-10-09 10:24",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
