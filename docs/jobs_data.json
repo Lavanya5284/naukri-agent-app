@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-09 10:24",
+  "last_updated": "2026-10-12 10:35",
   "total_applied": 14,
-  "total_manual": 335,
+  "total_manual": 336,
   "applied_jobs": [
     {
       "id": 1,
@@ -5569,6 +5569,22 @@
       "url": "https://www.naukri.com/job-listings-azure-net-full-stack-developer-reactjs-or-angular-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-091026912262",
       "found_on": "2026-10-09",
       "found_at": "2026-10-09 10:24",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 336,
+      "title": "Software-Java Developer",
+      "company": "Creative Hands HR",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "JavaRestful Web API DevelopmentMultithreadingDockerSpring BootCollectionsAWSMicroservices",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-121026001994",
+      "found_on": "2026-10-12",
+      "found_at": "2026-10-12 10:35",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
