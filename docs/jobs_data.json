@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-14 13:10",
+  "last_updated": "2026-10-15 08:12",
   "total_applied": 14,
-  "total_manual": 342,
+  "total_manual": 343,
   "applied_jobs": [
     {
       "id": 1,
@@ -5681,6 +5681,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineering-intern-full-stack-inspired-infotech-llc-usa-hyderabad-0-to-2-years-141026504138",
       "found_on": "2026-10-14",
       "found_at": "2026-10-14 13:10",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 343,
+      "title": "Software Developer",
+      "company": "MNC",
+      "location": "Hybrid - Hyderabad, Pimpri-Chinchwad, Pune",
+      "salary": "Not disclosed",
+      "experience": "0-2 Yrs",
+      "skills": "JavaSQLFullstack DevelopmentFrontend DevelopmentJavascriptCSSC++c",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-developer-starrise-recruitment-pimpri-chinchwad-hyderabad-pune-0-to-2-years-151026005096",
+      "found_on": "2026-10-15",
+      "found_at": "2026-10-15 08:12",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
