@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-15 12:55",
+  "last_updated": "2026-10-17 11:50",
   "total_applied": 14,
-  "total_manual": 344,
+  "total_manual": 345,
   "applied_jobs": [
     {
       "id": 1,
@@ -5713,6 +5713,22 @@
       "url": "https://www.naukri.com/job-listings-web-and-data-engineer-revenuemantra-digital-media-hyderabad-1-to-4-years-151026505104",
       "found_on": "2026-10-15",
       "found_at": "2026-10-15 12:55",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 345,
+      "title": "Software Engineer (Fresher)",
+      "company": "Jobaaj com",
+      "location": "Remote",
+      "salary": "Not disclosed",
+      "experience": "0-1 Yrs",
+      "skills": "AlgorithmsSQLOOPSBootCsJavascriptSpring BootCSS",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-fresher-jobaaj-com-bengaluru-0-to-1-years-171026004092",
+      "found_on": "2026-10-17",
+      "found_at": "2026-10-17 11:50",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
