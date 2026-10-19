@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-17 11:50",
+  "last_updated": "2026-10-19 08:44",
   "total_applied": 14,
-  "total_manual": 345,
+  "total_manual": 346,
   "applied_jobs": [
     {
       "id": 1,
@@ -5729,6 +5729,22 @@
       "url": "https://www.naukri.com/job-listings-software-engineer-fresher-jobaaj-com-bengaluru-0-to-1-years-171026004092",
       "found_on": "2026-10-17",
       "found_at": "2026-10-17 11:50",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 346,
+      "title": "Software-Java Developer",
+      "company": "Creative Hands HR",
+      "location": "Bengaluru, Hyderabad, Chennai",
+      "salary": "Not disclosed",
+      "experience": "0-5 Yrs",
+      "skills": "BootRest Web APIMultithreadingWeb API ServicesDockerSpring BootWeb technologiesMicroservices",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-191026005202",
+      "found_on": "2026-10-19",
+      "found_at": "2026-10-19 08:44",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
