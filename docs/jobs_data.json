@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-19 08:44",
+  "last_updated": "2026-10-19 15:00",
   "total_applied": 14,
-  "total_manual": 346,
+  "total_manual": 347,
   "applied_jobs": [
     {
       "id": 1,
@@ -5745,6 +5745,22 @@
       "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-191026005202",
       "found_on": "2026-10-19",
       "found_at": "2026-10-19 08:44",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 347,
+      "title": "WhatsApp - Software Engineer - Android",
+      "company": "Meta Platforms",
+      "location": "Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "APIAgileLanguagesCode QualityGITSoftware engineeringProgrammingJava",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-whatsapp-software-engineer-android-meta-bengaluru-1-to-4-years-191026500339",
+      "found_on": "2026-10-19",
+      "found_at": "2026-10-19 15:00",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
