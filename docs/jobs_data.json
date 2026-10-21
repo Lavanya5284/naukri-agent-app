@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-19 15:00",
+  "last_updated": "2026-10-21 08:30",
   "total_applied": 14,
-  "total_manual": 347,
+  "total_manual": 348,
   "applied_jobs": [
     {
       "id": 1,
@@ -5761,6 +5761,22 @@
       "url": "https://www.naukri.com/job-listings-whatsapp-software-engineer-android-meta-bengaluru-1-to-4-years-191026500339",
       "found_on": "2026-10-19",
       "found_at": "2026-10-19 15:00",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 348,
+      "title": "SDE I - Java Developer",
+      "company": "M2P",
+      "location": "Chennai",
+      "salary": "Not disclosed",
+      "experience": "1-4 Yrs",
+      "skills": "JavaSpring BootMicroservicesSpring MVCMS SQL ServeData StructuresJSPRedis",
+      "score": 70,
+      "reason": "Keyword match: 3 skills matched",
+      "url": "https://www.naukri.com/job-listings-sde-i-java-developer-m2p-fintech-chennai-1-to-4-years-090726015604",
+      "found_on": "2026-10-21",
+      "found_at": "2026-10-21 08:30",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
