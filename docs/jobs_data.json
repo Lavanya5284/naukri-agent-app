@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-21 17:35",
+  "last_updated": "2026-10-22 08:32",
   "total_applied": 14,
-  "total_manual": 351,
+  "total_manual": 352,
   "applied_jobs": [
     {
       "id": 1,
@@ -5825,6 +5825,22 @@
       "url": "https://www.naukri.com/job-listings-java-developer-jags-consulting-services-chennai-chennai-1-to-3-years-211026026074",
       "found_on": "2026-10-21",
       "found_at": "2026-10-21 17:35",
+      "status": "Manual Apply Needed",
+      "note": "This job redirects to company portal — apply manually"
+    },
+    {
+      "id": 352,
+      "title": "Software Engineer I",
+      "company": "Sitero",
+      "location": "Hybrid - Bengaluru",
+      "salary": "Not disclosed",
+      "experience": "1-2 Yrs",
+      "skills": "SoftwarePythonScriptingShell scriptingSQLAPIReact.jsJavascript",
+      "score": 80,
+      "reason": "Keyword match: 5 skills matched",
+      "url": "https://www.naukri.com/job-listings-software-engineer-i-sitero-bengaluru-1-to-2-years-221026013602",
+      "found_on": "2026-10-22",
+      "found_at": "2026-10-22 08:32",
       "status": "Manual Apply Needed",
       "note": "This job redirects to company portal — apply manually"
     }
